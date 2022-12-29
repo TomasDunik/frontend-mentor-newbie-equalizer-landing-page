@@ -8,12 +8,7 @@ Tento projekt je zo stránky Frontend Mentor ([Equalizer landing page](https://w
 
 Projekt som vytvoril približne za \*\*\* hodiny. Použil som HTML a CSS. Najviac času mi zabralo vytvorenie responzívneho dizajnu. Prvý krát som robil responzívny dizajn pre tri zariadenia - desktop, tablet a mobil.
 
-#### [Odkaz na stránku s projektom](https://tomasdunik.github.io/frontend-mentor-newbie-nft-preview-card-component-main/)
-
-## 💡 Užitočné zdroje
-
-- [CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Vytvorenie "hover" efektu nad hlavným obrázkom](https://www.youtube.com/watch?v=9bGbykdR4T8&ab_channel=TsbSankara)
+#### [Odkaz na hotovu stránku](https://tomasdunik.github.io/frontend-mentor-newbie-equalizer-landing-page/)
 
 ## 📸 Screenshots
 
@@ -31,5 +26,5 @@ Projekt som vytvoril približne za \*\*\* hodiny. Použil som HTML a CSS. Najvia
 
 ## 🔗 Odkazy
 
-- [Konkrétny projekt na stranke Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-zhhhljGOB3)
+- [Konkrétny projekt na stranke Frontend Mentor](https://www.frontendmentor.io/solutions/equalizer-landing-page-WPZNnYpwXg)
 - [Moje ostatné projekty na stránke Frontend Mentor](https://www.frontendmentor.io/profile/WeekendsProgrammer)
