@@ -20,7 +20,7 @@ Projekt som vytvoril približne za 5 hodín a 55 minút (čas od stiahnutia proj
 
 ![](./images/screenshot-tablet.png)
 
-### 📱 Mobile
+### 📱 Mobil
 
 ![](./images/screenshot-mobile.png)
 
