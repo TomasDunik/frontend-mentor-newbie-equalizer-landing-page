@@ -1,0 +1,106 @@
+@media (max-width: 1410px) {
+  body {
+    background-image: url(./assets/bg-main-tablet.png);
+    background-position: top -250px right 50px;
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .content {
+    background-position: top -40px right -40px;
+    background-size: 266px;
+    height: 1781px;
+    padding: 0 40px;
+    width: 768px;
+  }
+
+  header {
+    margin-bottom: 83px;
+    margin-top: 62px;
+  }
+
+  .heading h1 {
+    font-size: 64px;
+    height: 192px;
+    letter-spacing: -0.73px;
+    line-height: 64px;
+    margin-bottom: 30px;
+    width: 520px;
+  }
+
+  .heading p {
+    height: 112px;
+    margin-bottom: 250px;
+    width: 514px;
+  }
+
+  .subscription {
+    background-position: top -40px left 227px;
+    background-size: 280px;
+    height: 600px;
+    margin-bottom: 213px;
+    width: 696px;
+  }
+
+  .mobile {
+    height: 556px;
+    left: 63px;
+    top: -139px;
+    width: 270px;
+  }
+
+  .card {
+    height: 546px;
+    left: 237px;
+    top: -415px;
+    width: 399px;
+  }
+
+  h2 {
+    font-size: 32px;
+    line-height: 40px;
+    padding-top: 46px;
+  }
+
+  .text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .price {
+    padding-top: 31px;
+  }
+
+  footer {
+    align-items: flex-start;
+    flex-direction: column;
+    height: 143px;
+    justify-content: center;
+    text-align: left;
+    width: 696px;
+  }
+
+  footer .logo {
+    margin-bottom: 23px;
+  }
+
+  .contact p {
+    margin-left: 0;
+    min-width: 366px;
+  }
+
+  .social-media {
+    left: 560px;
+    position: relative;
+    top: -50px;
+  }
+
+  /* ==================== Button ==================== */
+  button {
+    width: 296px;
+  }
+
+  .button-apple {
+    margin-top: 46px;
+  }
+}

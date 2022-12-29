@@ -1,0 +1,187 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./assets/bg-main-desktop.png);
+  background-position: top -350px right 0;
+  background-repeat: no-repeat;
+  color: #191826;
+  display: flex;
+  justify-content: center;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 34px;
+}
+
+.content {
+  background-image: url(./assets/bg-pattern-1.svg);
+  background-position: top -45px right 0;
+  background-repeat: no-repeat;
+  height: 1832px;
+  padding: 0 165px;
+  width: 1440px;
+}
+
+header {
+  margin-bottom: 121px;
+  margin-top: 62px;
+}
+
+.heading h1 {
+  font-size: 88px;
+  height: 176px;
+  letter-spacing: -1px;
+  line-height: 88px;
+  margin-bottom: 40px;
+  width: 1015px;
+}
+
+.heading p {
+  height: 102px;
+  margin-bottom: 321px;
+  width: 825px;
+}
+
+.subscription {
+  background-color: #191826;
+  background-image: url(./assets/bg-pattern-2.svg);
+  background-position: top -40px left 337px;
+  background-repeat: no-repeat;
+  border-radius: 12px;
+  height: 600px;
+  margin: auto;
+  margin-bottom: 202px;
+  width: 1110px;
+}
+
+.mobile {
+  height: 642px;
+  left: 103px;
+  position: relative;
+  top: -214px;
+  width: 312px;
+}
+
+.card {
+  background-color: #fa7453;
+  border-radius: 12px;
+  color: #fcfaf9;
+  display: flex;
+  flex-direction: column;
+  height: 625px;
+  padding: 0 55px;
+  width: 446px;
+  left: 560px;
+  position: relative;
+  top: -562px;
+}
+
+h2 {
+  font-size: 40px;
+  line-height: 52px;
+  padding-top: 58px;
+}
+
+.card p {
+  padding-top: 22px;
+}
+
+.price {
+  align-items: center;
+  display: flex;
+  padding-top: 24px;
+}
+
+.dollar {
+  font-size: 65px;
+  font-weight: 700;
+}
+
+.month {
+  letter-spacing: -0.2px;
+  margin-left: 17px;
+}
+
+footer {
+  align-items: center;
+  display: flex;
+  height: 79px;
+  justify-content: space-between;
+  margin: auto;
+  width: 1110px;
+}
+
+footer .logo {
+  margin-top: -30px;
+}
+
+.contact {
+  height: 79px;
+  width: 366px;
+}
+
+.facebook:hover,
+.instagram:hover,
+.twitter:hover {
+  filter: invert(55%) sepia(36%) saturate(1319%) hue-rotate(325deg)
+    brightness(101%) contrast(96%);
+}
+
+.contact p {
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0;
+  margin-left: -120px;
+  max-width: 366px;
+  padding: 0;
+}
+
+.social-media {
+  margin-top: 5px;
+}
+
+.social-media a {
+  margin-left: 20px;
+}
+
+/* ==================== Button ==================== */
+button {
+  align-items: center;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  gap: 7px;
+  height: 61px;
+  justify-content: center;
+  letter-spacing: -0.18px;
+  width: 333px;
+}
+
+.button-android {
+  color: #191826;
+  margin-top: 16px;
+}
+
+.button-android:hover {
+  background-color: #ffb964;
+  color: #191826;
+}
+
+.button-apple {
+  background-color: #191826;
+  color: #fcfaf9;
+  margin-top: 57px;
+}
+
+.button-apple:hover {
+  background-color: #66e2dc;
+  color: #fcfaf9;
+}

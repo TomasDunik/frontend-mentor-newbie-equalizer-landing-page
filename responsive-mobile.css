@@ -1,0 +1,89 @@
+@media (max-width: 390px) {
+  body {
+    background-image: url(./assets/bg-main-mobile.png);
+    background-position: top -250px left 10px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .content {
+    background-image: none;
+    height: 1905px;
+    overflow-x: hidden;
+    padding: 0;
+    padding: 0 24px;
+    width: 375px;
+  }
+
+  header {
+    margin-bottom: 56px;
+    margin-top: 40px;
+  }
+
+  .heading h1 {
+    font-size: 40px;
+    height: 144px;
+    letter-spacing: -0.45px;
+    line-height: 48px;
+    margin-bottom: 20px;
+    width: 327px;
+  }
+
+  .heading p {
+    height: 156px;
+    margin-bottom: 161px;
+    width: 327px;
+  }
+
+  .subscription {
+    background-position: top -1px left 50px;
+    height: 600px;
+    left: -24px;
+    position: relative;
+    width: 375px;
+  }
+
+  .mobile {
+    height: 430px;
+    left: 85px;
+    top: -95px;
+    width: 209px;
+  }
+
+  .card {
+    height: 546px;
+    left: 0;
+    padding: 0 35px;
+    top: -54px;
+    width: 375px;
+  }
+
+  footer {
+    align-items: flex-start;
+    flex-direction: column;
+    height: 143px;
+    justify-content: center;
+    margin-top: 433px;
+    text-align: left;
+    width: 327px;
+  }
+
+  .contact {
+    height: 300px;
+    width: 300px;
+  }
+
+  .contact p {
+    padding-right: 24px;
+  }
+
+  .social-media {
+    left: 0;
+    top: 53px;
+  }
+
+  .social-media a {
+    margin-left: 0;
+    margin-right: 20px;
+  }
+}

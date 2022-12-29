@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ==================== Title ==================== -->
+    <title>Frontend Mentor | Equalizer landing page</title>
+
+    <!-- ==================== Google fonts ==================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- ==================== Icon ==================== -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/favicon-32x32.png"
+    />
+
+    <!-- ==================== CSS ==================== -->
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="responsive-tablet.css" />
+    <link rel="stylesheet" href="responsive-mobile.css" />
+  </head>
+  <body>
+    <div class="content">
+      <header>
+        <section class="logo">
+          <img src="./assets/logo.svg" alt="logo equalizer" />
+        </section>
+      </header>
+      <main class="title">
+        <section class="heading">
+          <h1>Robíme Vašu hudbu výnimočnou.</h1>
+          <p>
+            Systémový zvukový ekvalizér špeciálne navrhnutý pre iOS a Android.
+            Vylaďte Vašu hudbu spôsobom, aby znela ako na profesionálnej úrovni.
+            Ovládajte basy, stredy, výšky, zosilnenie a mnoho ďalších vecí!
+          </p>
+        </section>
+        <section class="subscription">
+          <img
+            class="mobile"
+            src="./assets/illustration-app.png"
+            alt="mobile picture"
+          />
+          <div class="card">
+            <h2>Prémium EQ</h2>
+            <p class="text">
+              Získajte ovládanie na profesionálnej úrovni! Posuňte svoj zážitok
+              z počúvania hudby na úplne novú úroveň a získajte prístup k našim
+              prémiovým funkciám.
+            </p>
+            <div class="price">
+              <p class="dollar">€4</p>
+              <p class="month">/ mesačne</p>
+            </div>
+            <button
+              class="button-apple"
+              onclick="location.href='https://www.apple.com/app-store/'"
+              type="button"
+            >
+              <img src="./assets/icon-apple.svg" alt="icon apple" /> iOS
+              stiahnúť
+            </button>
+            <button
+              class="button-android"
+              onclick="location.href='https://play.google.com/'"
+              type="button"
+            >
+              <img src="./assets/icon-android.svg" alt="icon android" /> Android
+              stiahnúť
+            </button>
+          </div>
+        </section>
+      </main>
+      <footer>
+        <section class="logo">
+          <img src="./assets/logo.svg" alt="logo equalizer" />
+        </section>
+        <section class="contact">
+          <p>Všetky práva vyhradené © Equalizer 2023</p>
+          <p>
+            Máte problém? Kontaktujte nás cez sociálne siete alebo nám napíšte
+            na <b>equalizer@example.com</b>
+          </p>
+        </section>
+        <section class="social-media">
+          <a class="facebook" href="https://www.facebook.com"
+            ><img src="./assets/icon-facebook.svg" alt="icon facebook"
+          /></a>
+          <a class="instagram" href="https://www.instagram.com/"
+            ><img src="./assets/icon-instagram.svg" alt="icon instagram"
+          /></a>
+          <a class="twitter" href="https://twitter.com/"
+            ><img src="./assets/icon-twitter.svg" alt="icon twitter"
+          /></a>
+        </section>
+      </footer>
+    </div>
+  </body>
+</html>
