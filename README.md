@@ -8,7 +8,7 @@ Tento projekt je zo stránky Frontend Mentor ([Equalizer landing page](https://w
 
 Projekt som vytvoril približne za 5 hodín a 55 minút (čas od stiahnutia projektu až po jeho finálne publikovanie na stránke Frontend Mentor). Použil som HTML a CSS. Najviac času mi zabralo vytvorenie responzívneho dizajnu. Prvýkrát som robil responzívny dizajn pre tri zariadenia - desktop, tablet a mobil.
 
-#### [Odkaz na hotovu stránku](https://tomasdunik.github.io/frontend-mentor-newbie-equalizer-landing-page/)
+#### [Odkaz na hotovú stránku](https://tomasdunik.github.io/frontend-mentor-newbie-equalizer-landing-page/)
 
 ## 📸 Screenshots
 
